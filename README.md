@@ -1,5 +1,5 @@
 # Installation
 
 ```
-Plug 'tak3228/auto_blank_out'
+Plug 'tak3228/eco_cursorline'
 ```
